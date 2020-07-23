@@ -7,6 +7,8 @@ Details article on Medium ([Tensorflow COVID-19 Classification by Chest X-Ray](h
 * Tensorflow_COVID-19_Classification_by_Chest X-Ray.ipynb > Sample Notebook for local
 * Tensorflow_COVID-19_Classification_by_Chest_X-Ray_For_ADB.ipynb > Sample Notebook for Azure Databricks
 
+TensorFlow and Keras version to run code perfectly are 2.1.0 and 2.3.1.
+
 ![alt text](https://github.com/easonlai/Tensorflow_COVID-19_Classification_by_Chest_X-Ray/blob/master/git-images/covid19-class.png)
 
 ![alt text](https://github.com/easonlai/Tensorflow_COVID-19_Classification_by_Chest_X-Ray/blob/master/git-images/normal-class.png)
