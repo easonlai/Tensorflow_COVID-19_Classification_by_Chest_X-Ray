@@ -1,0 +1,1 @@
+Please download pre-trained model from https://www.kaggle.com/pytorch/densenet121
